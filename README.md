@@ -1,9 +1,9 @@
-# DWX26 — Spec-Driven Development Demo
+# DDC26 — Spec-Driven Development Demo
 
-> Demo repository for the DWX 2026 talk
+> Demo repository for the DDC 2026 talk
 > **Spec-Driven Development: Redefining the Software Architect in the AI Era**
 
-This repository contains the demo code, specifications, prepared artifacts, and Spec Kit custom agents used for the DWX 2026 session about **Spec-Driven Development**, Domain-Driven Design, and AI-assisted software architecture.
+This repository contains the demo code, specifications, prepared artifacts, and Spec Kit custom agents used for the DDC 2026 session about **Spec-Driven Development**, Domain-Driven Design, and AI-assisted software architecture.
 
 The goal of this repository is not to show how to make an AI agent generate more code.
 
@@ -596,8 +596,8 @@ Some generated files may appear only after running the Spec Kit workflow.
 Clone the repository:
 
 ```bash
-git clone https://github.com/BrewUp/DWX26.git
-cd DWX26
+git clone https://github.com/Ace68/DDC2026.git
+cd DDC2026
 ```
 
 Open the repository with an environment that supports the installed Spec Kit agent integration.
