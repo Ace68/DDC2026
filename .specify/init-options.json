@@ -1,10 +1,8 @@
 {
   "ai": "copilot",
-  "ai_skills": true,
-  "allow_symlinks": false,
   "feature_numbering": "sequential",
-  "here": true,
+  "here": false,
   "integration": "copilot",
   "script": "ps",
-  "speckit_version": "1.2.4"
+  "speckit_version": "0.11.8"
 }
